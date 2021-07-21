@@ -10,40 +10,40 @@
 		<meta name="keywords" content="admin laravel template, template laravel admin, laravel css template, best admin template for laravel, laravel blade admin template, template admin laravel, laravel admin template bootstrap 4, laravel bootstrap 4 admin template, laravel admin bootstrap 4, admin template bootstrap 4 laravel, bootstrap 4 laravel admin template, bootstrap 4 admin template laravel, laravel bootstrap 4 template, bootstrap blade template, laravel bootstrap admin template">
 
         <!-- Favicon -->
-		<link rel="icon" href="https://laravel.spruko.com/spruha/ltr/assets/img/brand/favicon.ico" type="image/x-icon"/>
+		<link rel="icon" href="assets/img/brand/favicon.ico" type="image/x-icon"/>
 
 		<!-- Title -->
 		<title> {{config('app.name')}}</title>
 
 		<!-- Bootstrap css-->
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+		<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 
 		<!-- Icons css-->
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/plugins/web-fonts/icons.css" rel="stylesheet"/>
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/plugins/web-fonts/font-awesome/font-awesome.min.css" rel="stylesheet">
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/plugins/web-fonts/plugin.css" rel="stylesheet"/>
+		<link href="assets/plugins/web-fonts/icons.css" rel="stylesheet"/>
+		<link href="assets/plugins/web-fonts/font-awesome/font-awesome.min.css" rel="stylesheet">
+		<link href="assets/plugins/web-fonts/plugin.css" rel="stylesheet"/>
 
 		<!-- Style css-->
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/css/style/style.css" rel="stylesheet">
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/css/skins.css" rel="stylesheet">
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/css/dark-style.css" rel="stylesheet">
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/css/colors/default.css" rel="stylesheet">
+		<link href="assets/css/style.css" rel="stylesheet">
+		<link href="assets/css/skins.css" rel="stylesheet">
+		<link href="assets/css/dark-style.css" rel="stylesheet">
+		<link href="assets/css/colors/default.css" rel="stylesheet">
 
 		<!-- Color css-->
-		<link id="theme" rel="stylesheet" type="text/css" media="all" href="https://laravel.spruko.com/spruha/ltr/assets/css/colors/color.css">
+		<link id="theme" rel="stylesheet" type="text/css" media="all" href="assets/css/colors/color.css">
 
 		<!-- Select2 css-->
-        <link href="https://laravel.spruko.com/spruha/ltr/assets/plugins/select2/css/select2.min.css" rel="stylesheet">
+        <link href="assets/plugins/select2/css/select2.min.css" rel="stylesheet">
 
 				<!-- Mutipleselect css-->
-		<link rel="stylesheet" href="https://laravel.spruko.com/spruha/ltr/assets/plugins/multipleselect/multiple-select.css">
+		<link rel="stylesheet" href="assets/plugins/multipleselect/multiple-select.css">
 
 		<!-- Sidemenu css-->
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/css/sidemenu/sidemenu.css" rel="stylesheet">
+		<link href="assets/css/sidemenu/sidemenu.css" rel="stylesheet">
 
 		<!-- Switcher css-->
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/switcher/css/switcher.css" rel="stylesheet">
-		<link href="https://laravel.spruko.com/spruha/ltr/assets/switcher/demo.css" rel="stylesheet">
+		<link href="assets/switcher/css/switcher.css" rel="stylesheet">
+		<link href="assets/switcher/demo.css" rel="stylesheet">
 	</head>
 
 	<body class="main-body leftmenu">
@@ -67,25 +67,25 @@
 							<div class="swichermainleft">
 							<h4>Navigation Style</h4>
 								<div class="p-3">
-									<a href="https://laravel.spruko.com/spruha/ltr/index" class="btn btn-primary btn-block mt-0">LTR VERSION</a>
+									<a href="index" class="btn btn-primary btn-block mt-0">LTR VERSION</a>
 									<a href="https://laravel.spruko.com/spruha/rtl/index" class="btn btn-success btn-block">RTL VERSION</a>
 								</div>
 							</div>
 							<div class="swichermainleft">
 							<h4>Layout Style</h4>
 								<div class="p-3">
-									<a href="https://laravel.spruko.com/spruha/ltr/index" class="btn btn-primary btn-block mt-0">Left Menu</a>
-									<a href="https://laravel.spruko.com/spruha/ltr/horizontal" class="btn btn-success btn-block">Horizontal Menu</a>
+									<a href="index" class="btn btn-primary btn-block mt-0">Left Menu</a>
+									<a href="horizontal" class="btn btn-success btn-block">Horizontal Menu</a>
 								</div>
 							</div>
 							<div class="swichermainleft">
 								<h4 class="font-bold text-sm mr-3">Default Theme Switcher</h4>
 								<div class="swichermainleft my-4">
-									<a class="wscolorcode red-btn color blackborder color1" href="#" data-theme="https://laravel.spruko.com/spruha/ltr/assets/css/colors/color1.css"></a>
-									<a class="wscolorcode purple-btn color blackborder color2" href="#" data-theme="https://laravel.spruko.com/spruha/ltr/assets/css/colors/color2.css"></a>
-									<a class="wscolorcode green-btn color blackborder color3" href="#" data-theme="https://laravel.spruko.com/spruha/ltr/assets/css/colors/color3.css"></a>
-									<a class="wscolorcode pink-btn color blackborder color4" href="#" data-theme="https://laravel.spruko.com/spruha/ltr/assets/css/colors/color4.css"></a>
-									<a class="wscolorcode orange-btn color blackborder color5" href="#" data-theme="https://laravel.spruko.com/spruha/ltr/assets/css/colors/color5.css"></a>
+									<a class="wscolorcode red-btn color blackborder color1" href="#" data-theme="assets/css/colors/color1.css"></a>
+									<a class="wscolorcode purple-btn color blackborder color2" href="#" data-theme="assets/css/colors/color2.css"></a>
+									<a class="wscolorcode green-btn color blackborder color3" href="#" data-theme="assets/css/colors/color3.css"></a>
+									<a class="wscolorcode pink-btn color blackborder color4" href="#" data-theme="assets/css/colors/color4.css"></a>
+									<a class="wscolorcode orange-btn color blackborder color5" href="#" data-theme="assets/css/colors/color5.css"></a>
 								</div>
 							</div>
 							<div class="swichermainleft">
@@ -157,7 +157,7 @@
 
 		<!-- Loader -->
 		<div id="global-loader">
-			<img src="https://laravel.spruko.com/spruha/ltr/assets/img/loader.svg" class="loader-img" alt="Loader">
+			<img src="assets/img/loader.svg" class="loader-img" alt="Loader">
 		</div>
         <!-- End Loader -->
 
@@ -167,39 +167,39 @@
         <!-- Sidemenu -->
 			<div class="main-sidebar main-sidebar-sticky side-menu">
 				<div class="sidemenu-logo">
-					<a class="main-logo" href="https://laravel.spruko.com/spruha/ltr/index">
-						<img src="https://laravel.spruko.com/spruha/ltr/assets/img/brand/logo-light.png" class="header-brand-img desktop-logo" alt="logo">
-						<img src="https://laravel.spruko.com/spruha/ltr/assets/img/brand/icon-light.png" class="header-brand-img icon-logo" alt="logo">
-						<img src="https://laravel.spruko.com/spruha/ltr/assets/img/brand/logo.png" class="header-brand-img desktop-logo theme-logo" alt="logo">
-						<img src="https://laravel.spruko.com/spruha/ltr/assets/img/brand/icon.png" class="header-brand-img icon-logo theme-logo" alt="logo">
+					<a class="main-logo" href="index">
+						<img src="assets/img/brand/logo-light.png" class="header-brand-img desktop-logo" alt="logo">
+						<img src="assets/img/brand/icon-light.png" class="header-brand-img icon-logo" alt="logo">
+						<img src="assets/img/brand/logo.png" class="header-brand-img desktop-logo theme-logo" alt="logo">
+						<img src="assets/img/brand/icon.png" class="header-brand-img icon-logo theme-logo" alt="logo">
 					</a>
 				</div>
 				<div class="main-sidebar-body">
 					<ul class="nav">
 						<li class="nav-header"><span class="nav-label">Dashboard</span></li>
 						<li class="nav-item">
-							<a class="nav-link" href="https://laravel.spruko.com/spruha/ltr/index"><span class="shape1"></span><span class="shape2"></span><i class="ti-home sidemenu-icon"></i><span class="sidemenu-label">Dashboard</span></a>
+							<a class="nav-link" href="index"><span class="shape1"></span><span class="shape2"></span><i class="ti-home sidemenu-icon"></i><span class="sidemenu-label">Dashboard</span></a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-wallet sidemenu-icon"></i><span class="sidemenu-label">Crypto Currencies</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/cryptodashbaord">Dashboard</a>
+									<a class="nav-sub-link" href="cryptodashbaord">Dashboard</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/cryptomarket">Marketcap</a>
+									<a class="nav-sub-link" href="cryptomarket">Marketcap</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/cryptocurrencyexchange">Currency exchange</a>
+									<a class="nav-sub-link" href="cryptocurrencyexchange">Currency exchange</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/cryptobuysell">Buy & Sell</a>
+									<a class="nav-sub-link" href="cryptobuysell">Buy & Sell</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/cryptowallet">Wallet</a>
+									<a class="nav-sub-link" href="cryptowallet">Wallet</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/cryptotranscations">Transcations</a>
+									<a class="nav-sub-link" href="cryptotranscations">Transcations</a>
 								</li>
 							</ul>
 						</li>
@@ -207,40 +207,40 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-shopping-cart-full sidemenu-icon"></i><span class="sidemenu-label">E-Commerce</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/ecommercedashboard">Dashboard</a>
+									<a class="nav-sub-link" href="ecommercedashboard">Dashboard</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/ecommerceproducts">Products</a>
+									<a class="nav-sub-link" href="ecommerceproducts">Products</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/ecommerceproductdetails">Product Details</a>
+									<a class="nav-sub-link" href="ecommerceproductdetails">Product Details</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/ecommercecart">Cart</a>
+									<a class="nav-sub-link" href="ecommercecart">Cart</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/ecommercecheckout">Checkout</a>
+									<a class="nav-sub-link" href="ecommercecheckout">Checkout</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/ecommerceorders">Orders</a>
+									<a class="nav-sub-link" href="ecommerceorders">Orders</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/ecommerceaccount">Account</a>
+									<a class="nav-sub-link" href="ecommerceaccount">Account</a>
 								</li>
 							</ul>
 						</li>
 						<li class="nav-header"><span class="nav-label">Applications</span></li>
 						<li class="nav-item">
-							<a class="nav-link" href="https://laravel.spruko.com/spruha/ltr/widgets"><span class="shape1"></span><span class="shape2"></span><i class="ti-server sidemenu-icon"></i><span class="sidemenu-label">Widgets</span></a>
+							<a class="nav-link" href="widgets"><span class="shape1"></span><span class="shape2"></span><i class="ti-server sidemenu-icon"></i><span class="sidemenu-label">Widgets</span></a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-email sidemenu-icon"></i><span class="sidemenu-label">Mail</span><span class="badge badge-warning side-badge">2</span></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/mailinbox">Mail-Inbox</a>
+									<a class="nav-sub-link" href="mailinbox">Mail-Inbox</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/viewmail">View-Mail</a>
+									<a class="nav-sub-link" href="viewmail">View-Mail</a>
 								</li>
 							</ul>
 						</li>
@@ -248,16 +248,16 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-write sidemenu-icon"></i><span class="sidemenu-label">Apps</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/chat">Chat</a>
+									<a class="nav-sub-link" href="chat">Chat</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/cards">Cards</a>
+									<a class="nav-sub-link" href="cards">Cards</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/calendar">Calendar</a>
+									<a class="nav-sub-link" href="calendar">Calendar</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/contacts">Contacts</a>
+									<a class="nav-sub-link" href="contacts">Contacts</a>
 								</li>
 							</ul>
 						</li>
@@ -265,37 +265,37 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-face-smile sidemenu-icon"></i><span class="sidemenu-label">Icons</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons01">Font Awesome</a>
+									<a class="nav-sub-link" href="icons01">Font Awesome</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons02">Material Design Icons</a>
+									<a class="nav-sub-link" href="icons02">Material Design Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons03">Simple Line Icons</a>
+									<a class="nav-sub-link" href="icons03">Simple Line Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons04">Feather Icons</a>
+									<a class="nav-sub-link" href="icons04">Feather Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons05">Ionic Icons</a>
+									<a class="nav-sub-link" href="icons05">Ionic Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons06">Flag Icons</a>
+									<a class="nav-sub-link" href="icons06">Flag Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons07">Pe7 Icons</a>
+									<a class="nav-sub-link" href="icons07">Pe7 Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons08">Themify Icons</a>
+									<a class="nav-sub-link" href="icons08">Themify Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons09">Typicons Icons</a>
+									<a class="nav-sub-link" href="icons09">Typicons Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons10">Weather Icons</a>
+									<a class="nav-sub-link" href="icons10">Weather Icons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/icons11">Material Icons</a>
+									<a class="nav-sub-link" href="icons11">Material Icons</a>
 								</li>
 							</ul>
 						</li>
@@ -303,10 +303,10 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-map-alt sidemenu-icon"></i><span class="sidemenu-label">Maps</span><span class="badge badge-secondary side-badge">2</span></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/mapmapel">Mapel Maps</a>
+									<a class="nav-sub-link" href="mapmapel">Mapel Maps</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/mapvector">Vector Maps</a>
+									<a class="nav-sub-link" href="mapvector">Vector Maps</a>
 								</li>
 							</ul>
 						</li>
@@ -314,10 +314,10 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-agenda sidemenu-icon"></i><span class="sidemenu-label">Tables</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/tablebasic">Basic Tables</a>
+									<a class="nav-sub-link" href="tablebasic">Basic Tables</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/tabledata">Data Tables</a>
+									<a class="nav-sub-link" href="tabledata">Data Tables</a>
 								</li>
 							</ul>
 						</li>
@@ -326,58 +326,58 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-package sidemenu-icon"></i><span class="sidemenu-label">Elements</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/alerts">Alerts</a>
+									<a class="nav-sub-link" href="alerts">Alerts</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/avatar">Avatar</a>
+									<a class="nav-sub-link" href="avatar">Avatar</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/breadcrumbs">Breadcrumbs</a>
+									<a class="nav-sub-link" href="breadcrumbs">Breadcrumbs</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/buttons">Buttons</a>
+									<a class="nav-sub-link" href="buttons">Buttons</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/badge">Badge</a>
+									<a class="nav-sub-link" href="badge">Badge</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/dropdown">Dropdown</a>
+									<a class="nav-sub-link" href="dropdown">Dropdown</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/thumbnails">Thumbnails</a>
+									<a class="nav-sub-link" href="thumbnails">Thumbnails</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/listgroup">List Group</a>
+									<a class="nav-sub-link" href="listgroup">List Group</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/navigation">Navigation</a>
+									<a class="nav-sub-link" href="navigation">Navigation</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/pagination">Pagination</a>
+									<a class="nav-sub-link" href="pagination">Pagination</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/popover">Popover</a>
+									<a class="nav-sub-link" href="popover">Popover</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/progress">Progress</a>
+									<a class="nav-sub-link" href="progress">Progress</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/spinners">Spinners</a>
+									<a class="nav-sub-link" href="spinners">Spinners</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/mediaobject">Media Object</a>
+									<a class="nav-sub-link" href="mediaobject">Media Object</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/typography">Typography</a>
+									<a class="nav-sub-link" href="typography">Typography</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/tooltip">Tooltip</a>
+									<a class="nav-sub-link" href="tooltip">Tooltip</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/toast">Toast</a>
+									<a class="nav-sub-link" href="toast">Toast</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/tags">Tags</a>
+									<a class="nav-sub-link" href="tags">Tags</a>
 								</li>
 							</ul>
 						</li>
@@ -385,40 +385,40 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-briefcase sidemenu-icon"></i><span class="sidemenu-label">Advanced UI</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/accordion">Accordion</a>
+									<a class="nav-sub-link" href="accordion">Accordion</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/carousel">Carousel</a>
+									<a class="nav-sub-link" href="carousel">Carousel</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/collapse">Collapse</a>
+									<a class="nav-sub-link" href="collapse">Collapse</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/counters">Counters</a>
+									<a class="nav-sub-link" href="counters">Counters</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/modals">Modals</a>
+									<a class="nav-sub-link" href="modals">Modals</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/timeline">Timeline</a>
+									<a class="nav-sub-link" href="timeline">Timeline</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/darggablecard">Darggable-Cards</a>
+									<a class="nav-sub-link" href="darggablecard">Darggable-Cards</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/sweetalert">Sweet Alert</a>
+									<a class="nav-sub-link" href="sweetalert">Sweet Alert</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/rating">Ratings</a>
+									<a class="nav-sub-link" href="rating">Ratings</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/search">Search</a>
+									<a class="nav-sub-link" href="search">Search</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/userlist">Userlist</a>
+									<a class="nav-sub-link" href="userlist">Userlist</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/blog">Blog</a>
+									<a class="nav-sub-link" href="blog">Blog</a>
 								</li>
 							</ul>
 						</li>
@@ -427,22 +427,22 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-receipt sidemenu-icon"></i><span class="sidemenu-label">Forms</span><span class="badge badge-info side-badge">6</span></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/formelements">Form Elements</a>
+									<a class="nav-sub-link" href="formelements">Form Elements</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/formadvanced">Advanced Forms</a>
+									<a class="nav-sub-link" href="formadvanced">Advanced Forms</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/formlayouts">Form Layouts</a>
+									<a class="nav-sub-link" href="formlayouts">Form Layouts</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/formvalidation">Form Validation</a>
+									<a class="nav-sub-link" href="formvalidation">Form Validation</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/formwizards">Form Wizards</a>
+									<a class="nav-sub-link" href="formwizards">Form Wizards</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/formeditor">WYSIWYG Editor</a>
+									<a class="nav-sub-link" href="formeditor">WYSIWYG Editor</a>
 								</li>
 							</ul>
 						</li>
@@ -450,19 +450,19 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-bar-chart-alt sidemenu-icon"></i><span class="sidemenu-label">Charts</span><span class="badge badge-danger side-badge">5</span></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/chartmorris">Morris Charts</a>
+									<a class="nav-sub-link" href="chartmorris">Morris Charts</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/chartflot">Flot Charts</a>
+									<a class="nav-sub-link" href="chartflot">Flot Charts</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/chartchartjs">ChartJS</a>
+									<a class="nav-sub-link" href="chartchartjs">ChartJS</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/chartsparkpeity">Sparkline &amp; Peity</a>
+									<a class="nav-sub-link" href="chartsparkpeity">Sparkline &amp; Peity</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/chartechart">Echart</a>
+									<a class="nav-sub-link" href="chartechart">Echart</a>
 								</li>
 							</ul>
 						</li>
@@ -471,31 +471,31 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-palette sidemenu-icon"></i><span class="sidemenu-label ">Pages</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/profile">Profile</a>
+									<a class="nav-sub-link" href="profile">Profile</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/invoice">Invoice</a>
+									<a class="nav-sub-link" href="invoice">Invoice</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/pricing">Pricing</a>
+									<a class="nav-sub-link" href="pricing">Pricing</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/gallery">Gallery</a>
+									<a class="nav-sub-link" href="gallery">Gallery</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/faq">Faqs</a>
+									<a class="nav-sub-link" href="faq">Faqs</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/successmessage">Success Message</a>
+									<a class="nav-sub-link" href="successmessage">Success Message</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/dangermessage">Danger Message</a>
+									<a class="nav-sub-link" href="dangermessage">Danger Message</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/warningmessage">Warning Message</a>
+									<a class="nav-sub-link" href="warningmessage">Warning Message</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/empty">Empty Page</a>
+									<a class="nav-sub-link" href="empty">Empty Page</a>
 								</li>
 							</ul>
 						</li>
@@ -503,34 +503,34 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-shield sidemenu-icon"></i><span class="sidemenu-label">Utilities</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/background">Background</a>
+									<a class="nav-sub-link" href="background">Background</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/border">Border</a>
+									<a class="nav-sub-link" href="border">Border</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/display">Display</a>
+									<a class="nav-sub-link" href="display">Display</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/flex">Flex</a>
+									<a class="nav-sub-link" href="flex">Flex</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/height">Height</a>
+									<a class="nav-sub-link" href="height">Height</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/margin">Margin</a>
+									<a class="nav-sub-link" href="margin">Margin</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/padding">Padding</a>
+									<a class="nav-sub-link" href="padding">Padding</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/position">Position</a>
+									<a class="nav-sub-link" href="position">Position</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/width">Width</a>
+									<a class="nav-sub-link" href="width">Width</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/extras">Extras</a>
+									<a class="nav-sub-link" href="extras">Extras</a>
 								</li>
 							</ul>
 						</li>
@@ -538,28 +538,28 @@
 							<a class="nav-link with-sub" href="#"><span class="shape1"></span><span class="shape2"></span><i class="ti-lock sidemenu-icon"></i><span class="sidemenu-label">Custom Pages</span><i class="angle fe fe-chevron-right"></i></a>
 							<ul class="nav-sub">
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/signin">Sign In</a>
+									<a class="nav-sub-link" href="signin">Sign In</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/signup">Sign Up</a>
+									<a class="nav-sub-link" href="signup">Sign Up</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/forgot">Forgot Password</a>
+									<a class="nav-sub-link" href="forgot">Forgot Password</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/reset">Reset Password</a>
+									<a class="nav-sub-link" href="reset">Reset Password</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/lockscreen">Lockscreen</a>
+									<a class="nav-sub-link" href="lockscreen">Lockscreen</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/underconstruction">UnderConstruction</a>
+									<a class="nav-sub-link" href="underconstruction">UnderConstruction</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/error404">404 Error</a>
+									<a class="nav-sub-link" href="error404">404 Error</a>
 								</li>
 								<li class="nav-sub-item">
-									<a class="nav-sub-link" href="https://laravel.spruko.com/spruha/ltr/error500">500 Error</a>
+									<a class="nav-sub-link" href="error500">500 Error</a>
 								</li>
 							</ul>
 						</li>
@@ -574,8 +574,8 @@
 					</div>
 					<div class="main-header-center">
 						<div class="responsive-logo">
-							<a href="https://laravel.spruko.com/spruha/ltr/index"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/brand/logo.png" class="mobile-logo" alt="logo"></a>
-							<a href="https://laravel.spruko.com/spruha/ltr/index"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/brand/logo-light.png" class="mobile-logo-dark" alt="logo"></a>
+							<a href="index"><img src="assets/img/brand/logo.png" class="mobile-logo" alt="logo"></a>
+							<a href="index"><img src="assets/img/brand/logo-light.png" class="mobile-logo-dark" alt="logo"></a>
 						</div>
 						<div class="input-group">
 							<div class="input-group-btn search-panel">
@@ -644,31 +644,31 @@
 							</a>
 							<div class="dropdown-menu">
 								<a href="#" class="dropdown-item d-flex ">
-									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/french_flag.jpg" alt="img"></span>
+									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="assets/img/flags/french_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">French</span>
 									</div>
 								</a>
 								<a href="#" class="dropdown-item d-flex">
-									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/germany_flag.jpg" alt="img"></span>
+									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="assets/img/flags/germany_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">Germany</span>
 									</div>
 								</a>
 								<a href="#" class="dropdown-item d-flex">
-									<span class="avatar mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/italy_flag.jpg" alt="img"></span>
+									<span class="avatar mr-3 align-self-center bg-transparent"><img src="assets/img/flags/italy_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">Italy</span>
 									</div>
 								</a>
 								<a href="#" class="dropdown-item d-flex">
-									<span class="avatar mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/russia_flag.jpg" alt="img"></span>
+									<span class="avatar mr-3 align-self-center bg-transparent"><img src="assets/img/flags/russia_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">Russia</span>
 									</div>
 								</a>
 								<a href="#" class="dropdown-item d-flex">
-									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/spain_flag.jpg" alt="img"></span>
+									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="assets/img/flags/spain_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">spain</span>
 									</div>
@@ -692,19 +692,19 @@
 								</div>
 								<div class="main-notification-list">
 									<div class="media new">
-										<div class="main-img-user online"><img alt="avatar" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/5.jpg"></div>
+										<div class="main-img-user online"><img alt="avatar" src="assets/img/users/5.jpg"></div>
 										<div class="media-body">
 											<p>Congratulate <strong>Olivia James</strong> for New template start</p><span>Oct 15 12:32pm</span>
 										</div>
 									</div>
 									<div class="media">
-										<div class="main-img-user"><img alt="avatar" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/2.jpg"></div>
+										<div class="main-img-user"><img alt="avatar" src="assets/img/users/2.jpg"></div>
 										<div class="media-body">
 											<p><strong>Joshua Gray</strong> New Message Received</p><span>Oct 13 02:56am</span>
 										</div>
 									</div>
 									<div class="media">
-										<div class="main-img-user online"><img alt="avatar" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/3.jpg"></div>
+										<div class="main-img-user online"><img alt="avatar" src="assets/img/users/3.jpg"></div>
 										<div class="media-body">
 											<p><strong>Elizabeth Lewis</strong> added new schedule realease</p><span>Oct 12 10:40pm</span>
 										</div>
@@ -716,36 +716,36 @@
 							</div>
 						</div>
 						<div class="main-header-notification">
-							<a class="nav-link icon" href="https://laravel.spruko.com/spruha/ltr/chat">
+							<a class="nav-link icon" href="chat">
 								<i class="fe fe-message-square header-icons"></i>
 								<span class="badge badge-success nav-link-badge">6</span>
 							</a>
 						</div>
 						<div class="dropdown main-profile-menu">
 							<a class="d-flex" href="">
-								<span class="main-img-user" ><img alt="avatar" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/1.jpg"></span>
+								<span class="main-img-user" ><img alt="avatar" src="assets/img/users/1.jpg"></span>
 							</a>
 							<div class="dropdown-menu">
 								<div class="header-navheading">
 									<h6 class="main-notification-title">Sonia Taylor</h6>
 									<p class="main-notification-text">Web Designer</p>
 								</div>
-								<a class="dropdown-item border-top" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item border-top" href="profile">
 									<i class="fe fe-user"></i> My Profile
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item" href="profile">
 									<i class="fe fe-edit"></i> Edit Profile
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item" href="profile">
 									<i class="fe fe-settings"></i> Account Settings
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item" href="profile">
 									<i class="fe fe-settings"></i> Support
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item" href="profile">
 									<i class="fe fe-compass"></i> Activity
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/signin">
+								<a class="dropdown-item" href="signin">
 									<i class="fe fe-power"></i> Sign Out
 								</a>
 							</div>
@@ -807,31 +807,31 @@
 							</a>
 							<div class="dropdown-menu">
 								<a href="#" class="dropdown-item d-flex ">
-									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/french_flag.jpg" alt="img"></span>
+									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="assets/img/flags/french_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">French</span>
 									</div>
 								</a>
 								<a href="#" class="dropdown-item d-flex">
-									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/germany_flag.jpg" alt="img"></span>
+									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="assets/img/flags/germany_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">Germany</span>
 									</div>
 								</a>
 								<a href="#" class="dropdown-item d-flex">
-									<span class="avatar mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/italy_flag.jpg" alt="img"></span>
+									<span class="avatar mr-3 align-self-center bg-transparent"><img src="assets/img/flags/italy_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">Italy</span>
 									</div>
 								</a>
 								<a href="#" class="dropdown-item d-flex">
-									<span class="avatar mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/russia_flag.jpg" alt="img"></span>
+									<span class="avatar mr-3 align-self-center bg-transparent"><img src="assets/img/flags/russia_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">Russia</span>
 									</div>
 								</a>
 								<a href="#" class="dropdown-item d-flex">
-									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="https://laravel.spruko.com/spruha/ltr/assets/img/flags/spain_flag.jpg" alt="img"></span>
+									<span class="avatar  mr-3 align-self-center bg-transparent"><img src="assets/img/flags/spain_flag.jpg" alt="img"></span>
 									<div class="d-flex">
 										<span class="mt-2">spain</span>
 									</div>
@@ -855,19 +855,19 @@
 								</div>
 								<div class="main-notification-list">
 									<div class="media new">
-										<div class="main-img-user online"><img alt="avatar" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/5.jpg"></div>
+										<div class="main-img-user online"><img alt="avatar" src="assets/img/users/5.jpg"></div>
 										<div class="media-body">
 											<p>Congratulate <strong>Olivia James</strong> for New template start</p><span>Oct 15 12:32pm</span>
 										</div>
 									</div>
 									<div class="media">
-										<div class="main-img-user"><img alt="avatar" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/2.jpg"></div>
+										<div class="main-img-user"><img alt="avatar" src="assets/img/users/2.jpg"></div>
 										<div class="media-body">
 											<p><strong>Joshua Gray</strong> New Message Received</p><span>Oct 13 02:56am</span>
 										</div>
 									</div>
 									<div class="media">
-										<div class="main-img-user online"><img alt="avatar" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/3.jpg"></div>
+										<div class="main-img-user online"><img alt="avatar" src="assets/img/users/3.jpg"></div>
 										<div class="media-body">
 											<p><strong>Elizabeth Lewis</strong> added new schedule realease</p><span>Oct 12 10:40pm</span>
 										</div>
@@ -879,36 +879,36 @@
 							</div>
 						</div>
 						<div class="main-header-notification mt-2">
-							<a class="nav-link icon" href="https://laravel.spruko.com/spruha/ltr/chat">
+							<a class="nav-link icon" href="chat">
 								<i class="fe fe-message-square header-icons"></i>
 								<span class="badge badge-success nav-link-badge">6</span>
 							</a>
 						</div>
 						<div class="dropdown main-profile-menu">
 							<a class="d-flex" href="#">
-								<span class="main-img-user" ><img alt="avatar" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/1.jpg"></span>
+								<span class="main-img-user" ><img alt="avatar" src="assets/img/users/1.jpg"></span>
 							</a>
 							<div class="dropdown-menu">
 								<div class="header-navheading">
 									<h6 class="main-notification-title">Sonia Taylor</h6>
 									<p class="main-notification-text">Web Designer</p>
 								</div>
-								<a class="dropdown-item border-top" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item border-top" href="profile">
 									<i class="fe fe-user"></i> My Profile
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item" href="profile">
 									<i class="fe fe-edit"></i> Edit Profile
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item" href="profile">
 									<i class="fe fe-settings"></i> Account Settings
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item" href="profile">
 									<i class="fe fe-settings"></i> Support
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/profile">
+								<a class="dropdown-item" href="profile">
 									<i class="fe fe-compass"></i> Activity
 								</a>
-								<a class="dropdown-item" href="https://laravel.spruko.com/spruha/ltr/signin">
+								<a class="dropdown-item" href="signin">
 									<i class="fe fe-power"></i> Sign Out
 								</a>
 							</div>
@@ -971,7 +971,7 @@
 														<p class="tx-white-7 mb-1">You have two projects to finish, you had completed <b class="text-warning">57%</b> from your montly level,
 														Keep going to your level
 													</div>
-													<img src="https://laravel.spruko.com/spruha/ltr/assets/img/pngs/work3.png" alt="user-img" class="wd-200">
+													<img src="assets/img/pngs/work3.png" alt="user-img" class="wd-200">
 												</div>
 											</div>
 										</div>
@@ -1191,16 +1191,16 @@
 																<td class="text-nowrap">
 																	<div class="demo-avatar-group my-auto float-right">
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/1.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/1.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/2.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/2.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/3.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/3.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/4.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/4.jpg">
 																		</div>
 																	</div>
 																</td>
@@ -1213,16 +1213,16 @@
 																<td class="text-nowrap">
 																	<div class="demo-avatar-group my-auto float-right">
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/5.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/5.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/6.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/6.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/7.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/7.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/8.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/8.jpg">
 																		</div>
 																	</div>
 																</td>
@@ -1235,16 +1235,16 @@
 																<td class="text-nowrap">
 																	<div class="demo-avatar-group my-auto float-right">
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/11.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/11.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/12.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/12.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/9.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/9.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/10.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/10.jpg">
 																		</div>
 																	</div>
 																</td>
@@ -1257,16 +1257,16 @@
 																<td class="text-nowrap">
 																	<div class="demo-avatar-group my-auto float-right">
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/7.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/7.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/9.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/9.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/11.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/11.jpg">
 																		</div>
 																		<div class="main-img-user avatar-sm">
-																			<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/12.jpg">
+																			<img alt="avatar" class="rounded-circle" src="assets/img/users/12.jpg">
 																		</div>
 																	</div>
 																</td>
@@ -1291,7 +1291,7 @@
 											<tr>
 												<td class="wd-5p">
 													<div class="main-img-user avatar-md">
-														<img alt="avatar" class="rounded-circle mr-3" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/5.jpg">
+														<img alt="avatar" class="rounded-circle mr-3" src="assets/img/users/5.jpg">
 													</div>
 												</td>
 												<td>
@@ -1312,7 +1312,7 @@
 											 <tr>
 												<td class="wd-5p">
 													<div class="main-img-user avatar-md">
-														<img alt="avatar" class="rounded-circle mr-3" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/6.jpg">
+														<img alt="avatar" class="rounded-circle mr-3" src="assets/img/users/6.jpg">
 													</div>
 												</td>
 												<td>
@@ -1333,7 +1333,7 @@
 											<tr>
 												<td class="wd-5p">
 													<div class="main-img-user avatar-md">
-														<img alt="avatar" class="rounded-circle mr-3" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/7.jpg">
+														<img alt="avatar" class="rounded-circle mr-3" src="assets/img/users/7.jpg">
 													</div>
 												</td>
 												<td>
@@ -1354,7 +1354,7 @@
 											<tr>
 												<td class="wd-5p">
 													<div class="main-img-user avatar-md">
-														<img alt="avatar" class="rounded-circle mr-3" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/8.jpg">
+														<img alt="avatar" class="rounded-circle mr-3" src="assets/img/users/8.jpg">
 													</div>
 												</td>
 												<td>
@@ -1375,7 +1375,7 @@
 											<tr>
 												<td class="wd-5p pb-0">
 													<div class="main-img-user avatar-md">
-														<img alt="avatar" class="rounded-circle mr-3" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/4.jpg">
+														<img alt="avatar" class="rounded-circle mr-3" src="assets/img/users/4.jpg">
 													</div>
 												</td>
 												<td class="pb-0">
@@ -1408,7 +1408,7 @@
 												<a href="#" class="text-muted">12 Monday, Oct 2020 </a>
 											</div>
 											<div class="col-6">
-												<img src="https://laravel.spruko.com/spruha/ltr/assets/img/pngs/work.png" alt="image" class="best-emp">
+												<img src="assets/img/pngs/work.png" alt="image" class="best-emp">
 											</div>
 										</div>
 									</div>
@@ -1425,16 +1425,16 @@
 											<div class="d-flex">
 												<div class="demo-avatar-group my-auto float-right">
 													<div class="main-img-user avatar-xs">
-														<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/1.jpg">
+														<img alt="avatar" class="rounded-circle" src="assets/img/users/1.jpg">
 													</div>
 													<div class="main-img-user avatar-xs">
-														<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/2.jpg">
+														<img alt="avatar" class="rounded-circle" src="assets/img/users/2.jpg">
 													</div>
 													<div class="main-img-user avatar-xs">
-														<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/3.jpg">
+														<img alt="avatar" class="rounded-circle" src="assets/img/users/3.jpg">
 													</div>
 													<div class="main-img-user avatar-xs">
-														<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/4.jpg">
+														<img alt="avatar" class="rounded-circle" src="assets/img/users/4.jpg">
 													</div>
 													<div class="">Design team</div>
 												</div>
@@ -1466,16 +1466,16 @@
 											<div class="d-flex">
 												<div class="demo-avatar-group my-auto float-right">
 													<div class="main-img-user avatar-xs">
-														<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/5.jpg">
+														<img alt="avatar" class="rounded-circle" src="assets/img/users/5.jpg">
 													</div>
 													<div class="main-img-user avatar-xs">
-														<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/6.jpg">
+														<img alt="avatar" class="rounded-circle" src="assets/img/users/6.jpg">
 													</div>
 													<div class="main-img-user avatar-xs">
-														<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/7.jpg">
+														<img alt="avatar" class="rounded-circle" src="assets/img/users/7.jpg">
 													</div>
 													<div class="main-img-user avatar-xs">
-														<img alt="avatar" class="rounded-circle" src="https://laravel.spruko.com/spruha/ltr/assets/img/users/8.jpg">
+														<img alt="avatar" class="rounded-circle" src="assets/img/users/8.jpg">
 													</div>
 													<div class="">Design team</div>
 												</div>
@@ -1537,7 +1537,7 @@
 											<div class="col col-auto">
 												<div class="mt-3">
 													<div class="">
-														<img alt="" class="ht-50" src="https://laravel.spruko.com/spruha/ltr/assets/img/media/project-logo.png">
+														<img alt="" class="ht-50" src="assets/img/media/project-logo.png">
 													</div>
 												</div>
 											</div>
@@ -1679,48 +1679,48 @@
 		<a href="#top" id="back-to-top"><i class="fe fe-arrow-up"></i></a>
 
 		<!-- Jquery js-->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/jquery/jquery.min.js"></script>
+		<script src="assets/plugins/jquery/jquery.min.js"></script>
 
 		<!-- Bootstrap js-->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/bootstrap/js/popper.min.js"></script>
-        <script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<script src="assets/plugins/bootstrap/js/popper.min.js"></script>
+        <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
 		<!-- Select2 js-->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/select2/js/select2.min.js"></script>
+		<script src="assets/plugins/select2/js/select2.min.js"></script>
 
 		<!-- Perfect-scrollbar js -->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+		<script src="assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
 
 		<!-- Sidemenu js -->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/sidemenu/sidemenu.js"></script>
+		<script src="assets/plugins/sidemenu/sidemenu.js"></script>
 
 		<!-- Sidebar js -->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/sidebar/sidebar.js"></script>
+		<script src="assets/plugins/sidebar/sidebar.js"></script>
 
 		        <!-- Internal Chart.Bundle js-->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/chart.js/Chart.bundle.min.js"></script>
+		<script src="assets/plugins/chart.js/Chart.bundle.min.js"></script>
 
 		<!-- Peity js-->
-        <script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/peity/jquery.peity.min.js"></script>
+        <script src="assets/plugins/peity/jquery.peity.min.js"></script>
 
 		<!-- Internal Morris js -->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/raphael/raphael.min.js"></script>
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/plugins/morris.js/morris.min.js"></script>
+		<script src="assets/plugins/raphael/raphael.min.js"></script>
+		<script src="assets/plugins/morris.js/morris.min.js"></script>
 
 		<!-- Circle Progress js-->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/js/circle-progress.min.js"></script>
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/js/chart-circle.js"></script>
+		<script src="assets/js/circle-progress.min.js"></script>
+		<script src="assets/js/chart-circle.js"></script>
 
 		<!-- Internal Dashboard js-->
-        <script src="https://laravel.spruko.com/spruha/ltr/assets/js/index.js"></script>
+        <script src="assets/js/index.js"></script>
 
 		<!-- Sticky js -->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/js/sticky.js"></script>
+		<script src="assets/js/sticky.js"></script>
 
 		<!-- Custom js -->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/js/custom.js"></script>
+		<script src="assets/js/custom.js"></script>
 
 		<!-- Switcher js -->
-		<script src="https://laravel.spruko.com/spruha/ltr/assets/switcher/js/switcher.js"></script>
+		<script src="assets/switcher/js/switcher.js"></script>
 	</body>
 </html>
