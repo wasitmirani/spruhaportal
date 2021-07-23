@@ -19,23 +19,19 @@
 		<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 
 		<!-- Icons css-->
-		<link href="assets/plugins/web-fonts/icons.css" rel="stylesheet"/>
-		<link href="assets/plugins/web-fonts/font-awesome/font-awesome.min.css" rel="stylesheet">
-		<link href="assets/plugins/web-fonts/plugin.css" rel="stylesheet"/>
+
 
 		<!-- Style css-->
 		<link href="assets/css/style.css" rel="stylesheet">
-		<link href="assets/css/skins.css" rel="stylesheet">
-		<link href="assets/css/dark-style.css" rel="stylesheet">
+
 		<link href="assets/css/colors/default.css" rel="stylesheet">
 
 
 		<!-- Color css-->
-		<link id="theme" rel="stylesheet" type="text/css" media="all" href="assets/css/colors/color.css">
+
 
 		<!-- Switcher css-->
-		<link href="assets/switcher/css/switcher.css" rel="stylesheet">
-		<link href="assets/switcher/demo.css" rel="stylesheet">
+
 
 
 
